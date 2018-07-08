@@ -1,0 +1,97 @@
+
+.section-one {
+	text-align: center;
+}
+#E{ color: white;
+	background-image: url("../images/foodtop/breakfast.jpg");
+}
+#C {
+	color: white;
+	background-color: #F15A29;
+	padding-bottom:10%;
+	padding-right: 100px;
+	text-align: center;
+}
+#D{
+	background-image: url("../images/foodtop/lunch.jpg");
+	color: white;
+}
+#F{
+	background-image: url("../images/foodtop/dinner.jpg");
+	color: white;
+}
+.container-fluid {
+	border-style: solid;
+	background-repeat: no-repeat;
+	background: fixed;
+}
+#B{
+
+	background-color: white;
+	padding-bottom: 35px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+.section-one {
+	color: white;
+	background: fixed;
+}
+#SAO{
+	text-align: center;
+}
+.h3 {
+	text-align: center;
+	text-orientation: 10px;
+}
+.h5 {
+	text-align: center;
+}
+.h4 {
+	text-align: center;
+}
+.card {
+	text-align: right;
+}
+#ke {
+	color: #F15A29;
+}
+#bottom {
+	color: white;
+	text-align: center;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	background-repeat: no-repeat;
+}
+#last {
+	background-color: #F15A29;
+	color: white;
+	text-align: center;
+}
+#newhead {
+	font-size: 100;
+}
+#ML {
+	background-color: #F15A29;
+	color: white;
+	float: right;
+}
+#FE {
+	background-color: #F15A29;
+}
+#VE {
+	background-color:  transparent;
+}
+.newer {
+	text-align: left;
+}
+.newest {
+	text-align: left;
+}
+.k1 {
+	margin-top: 5px;
+	margin-left: 5px;
+}
+#ke {
+	text-align: bottom;
+}
