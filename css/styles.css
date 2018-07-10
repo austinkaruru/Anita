@@ -1,5 +1,4 @@
-
-.section-one {
+section-one {
 	text-align: center;
 }
 #E{ color: white;
@@ -50,11 +49,10 @@
 .h4 {
 	text-align: center;
 }
-.card {
-	text-align: right;
-}
 #ke {
 	color: #F15A29;
+	text-align: center;
+	padding-right: 100px;
 }
 #bottom {
 	color: white;
@@ -83,15 +81,39 @@
 	background-color:  transparent;
 }
 .newer {
-	text-align: left;
+	float: left;
 }
-.newest {
-	text-align: left;
+.pics {
+	float: right;
 }
-.k1 {
-	margin-top: 5px;
-	margin-left: 5px;
+.drinks {
+	float: right;
 }
-#ke {
-	text-align: bottom;
+.background1 {
+	background-image: url("../images/backgrounds/foodsBg.jpg");
+	padding-bottom: 10%;
 }
+.drank {
+	padding-right: 5px;
+}
+.drinkpic {
+	padding-right: 90px;
+}
+#subscribe {
+	background-color: #F15A29;
+}
+#email {
+	opacity: 0.2;
+}
+#btn {
+	background-color: white;
+	border-color: #F15A29;
+	color: #F15A29;
+}
+#ntb {
+	background-color: white;
+	border-color: #F15A29;
+	color: #F15A29;
+}
+
+
